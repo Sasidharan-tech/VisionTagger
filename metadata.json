@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Labeler",
+  "description": "An application to automatically generate descriptive labels for any uploaded image using the power of Google's Gemini AI. Simply upload an image and let the AI analyze it to provide relevant tags and categories.",
+  "requestFramePermissions": []
+}
