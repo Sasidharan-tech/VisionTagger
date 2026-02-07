@@ -18,6 +18,10 @@ View your app in AI Studio: https://ai.studio/apps/drive/1C0QCDvg7q0_jaA0nyc0Z5o
 
 **Prerequisites:**  Node.js
 
+## ☕ Support Me
+If you find this project useful, consider supporting me:
+👉 https://buymeacoffee.com/sasidharan
+
 
 1. Install dependencies:
    `npm install`
