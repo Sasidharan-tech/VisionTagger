@@ -17,14 +17,14 @@ View your app in AI Studio: https://ai.studio/apps/drive/1C0QCDvg7q0_jaA0nyc0Z5o
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
-## ☕ Support Me
-If you find this project useful, consider supporting me:
-👉 https://buymeacoffee.com/sasidharan
-
-
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+<a href="https://www.buymeacoffee.com/sasidharan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me A Coffee"
+       style="height: 60px; width: 217px;">
+</a>
